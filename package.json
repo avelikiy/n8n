@@ -94,7 +94,7 @@
 "engines": {
   "node": ">=20.15.0",
   "npm": ">=9.0.0"
-}
+},
     "patchedDependencies": {
       "bull@4.16.4": "patches/bull@4.16.4.patch",
       "pkce-challenge@5.0.0": "patches/pkce-challenge@5.0.0.patch",
